@@ -15,7 +15,7 @@ The program:
 
 The program includes functions to:
 * Read and tokenize raw text
-* Extract unigram frequencies (including <s> and <e> tokens)
+* Extract unigram frequencies
 * Extract bigram frequencies
 * Compute bigram probabilities
 * Calculate surprisal values
